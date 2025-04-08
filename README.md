@@ -8,6 +8,8 @@ A web application displaying information about characters, episodes, and locatio
 - Character Details: Click on a character to view more detailed information.
 - Favorites: Add characters to your favorites list and keep track of them.
 - Pagination: Navigate through different pages of characters.
+- Search by Name: Quickly find characters by typing their name.
+- Filter by Status, Gender, or Species: Narrow down the character list using flexible filters.
 
 ## Technologies Used
 
