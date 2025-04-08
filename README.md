@@ -1,6 +1,6 @@
 # Rick and Morty Web App
 
-A web application displaying information about characters, episodes, and locations from the *Rick and Morty* TV show. This project uses React for the front-end and a public API to fetch character data.
+A web application displaying information about characters and episodes from the *Rick and Morty* TV show. This project uses React for the front-end and a public API to fetch character data.
 
 ## Features
 
