@@ -1,12 +1,25 @@
-# React + Vite
+# Rick and Morty Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application displaying information about characters, episodes, and locations from the *Rick and Morty* TV show. This project uses React for the front-end and a public API to fetch character data.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Character List: View a list of characters from the *Rick and Morty* universe.
+- Character Details: Click on a character to view more detailed information.
+- Favorites: Add characters to your favorites list and keep track of them.
+- Pagination: Navigate through different pages of characters.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React: Front-end framework for building the user interface.
+- Material-UI (MUI): UI component library to create a responsive and modern design.
+- Axios: HTTP client for making requests to the API.
+- React Router: For managing page navigation.
+- Context API: For managing global state, such as the favorites list.
+
+
+![image](https://github.com/user-attachments/assets/d3270905-c83a-4e71-a32a-aac019d8648a)
+![image](https://github.com/user-attachments/assets/a4047663-ec41-41ec-a5f3-697577f8eca2)
+![image](https://github.com/user-attachments/assets/9eed120b-2392-4420-aa6e-13e6c00a85c7)
+
+
