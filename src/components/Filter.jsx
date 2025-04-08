@@ -40,7 +40,7 @@ const Filter = ({ onFilterChange }) => {
           },
           { 
             name: 'species', 
-            label: 'Espèce', 
+            label: 'Species', 
             options: [
               { value: '', label: 'Tous' },
               { value: 'human', label: 'Human' },
@@ -51,7 +51,7 @@ const Filter = ({ onFilterChange }) => {
           },
           { 
             name: 'gender', 
-            label: 'Genre', 
+            label: 'Gender', 
             options: [
               { value: '', label: 'Tous' },
               { value: 'female', label: 'Female' },
